@@ -1,0 +1,7 @@
+public class MSJ
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Magic Shop");
+	}
+}
