@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -7,6 +7,8 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
+	<h1>hola Soy andrade</h1>
+	<?php echo "andrade"; ?>
 	
 </body>
 </html>
