@@ -1,0 +1,1 @@
+print "Dance the Night Away!\n";
